@@ -58,8 +58,4 @@ missile-aircraft-3D-matlab/
 - Add time-to-go estimation  
 - Add miss-distance calculations  
 
----
 
-## 📝 License
-
-Feel free to add a LICENSE file later (MIT recommended).
